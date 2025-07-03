@@ -94,4 +94,22 @@ bonus)
    - Data Collection
    - data colection
    - data Visualization
-- SQL Queries
+
+
+
+![image](https://github.com/user-attachments/assets/eb7e6ddb-621c-4fa0-96b1-019c29470a04)
+
+![image](https://github.com/user-attachments/assets/0f6a2c82-15d3-41f6-afad-7d12cb271973)
+
+![image](https://github.com/user-attachments/assets/3369e6fa-c6a4-45b8-b1e0-20542d186f75)
+
+![image](https://github.com/user-attachments/assets/7a4e5941-73af-485d-9f1f-350feeddb766)
+
+![image](https://github.com/user-attachments/assets/90cc2c8b-aad0-4352-b680-2292224a3393)
+
+![image](https://github.com/user-attachments/assets/37c85e49-99ce-4603-889c-0ebeee0fb836)
+
+ - SQL Queries
+
+
+
