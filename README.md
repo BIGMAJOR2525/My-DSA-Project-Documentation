@@ -109,6 +109,8 @@ bonus)
 
 ![image](https://github.com/user-attachments/assets/37c85e49-99ce-4603-889c-0ebeee0fb836)
 
+
+
  - SQL Queries
 
 
