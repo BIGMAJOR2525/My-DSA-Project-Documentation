@@ -95,6 +95,8 @@ bonus)
    - data colection
    - data Visualization
 
+![image](<img width="1154" height="669" alt="PALMORA GROUP HR ANALYSIS " src="https://github.com/user-attachments/assets/1fcfac4b-e574-4f53-9ce1-8dd4d61df232" />
+
 
 
 ![image](https://github.com/user-attachments/assets/eb7e6ddb-621c-4fa0-96b1-019c29470a04)
